@@ -92,3 +92,9 @@ C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.UI.Mvc\obj\Debu
 C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.UI.Mvc\obj\Debug\net5.0\ref\CleanArchitecture.UI.Mvc.dll
 C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.UI.Mvc\obj\Debug\net5.0\CleanArchitecture.UI.Mvc.pdb
 C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.UI.Mvc\obj\Debug\net5.0\CleanArchitecture.UI.Mvc.genruntimeconfig.cache
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.UI.Mvc\bin\Debug\net5.0\MediatR.dll
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.UI.Mvc\bin\Debug\net5.0\CleanArchitecture.Domain.Core.dll
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.UI.Mvc\bin\Debug\net5.0\CleanArchitecture.Domain.Core.pdb
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.UI.Mvc\bin\Debug\net5.0\Infrastructure.Bus.dll
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.UI.Mvc\bin\Debug\net5.0\Infrastructure.Bus.pdb
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.UI.Mvc\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

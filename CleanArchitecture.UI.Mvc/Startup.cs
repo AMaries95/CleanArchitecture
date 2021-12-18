@@ -14,6 +14,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using CleanArchitecture.Infrastructure.Data.Context;
 using CleanArchitecture.Infrastructure.IoC;
+using MediatR;
 
 namespace CleanArchitecture.UI.Mvc
 {
@@ -40,6 +41,8 @@ namespace CleanArchitecture.UI.Mvc
 
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+
+            services.AddMediatR(typeof(Startup));
             services.AddControllersWithViews();
 
             RegisterServices(services);

@@ -13,3 +13,5 @@ C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Application\obj
 C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net5.0\CleanArchitecture.ApplicationCore.dll
 C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net5.0\ref\CleanArchitecture.ApplicationCore.dll
 C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net5.0\CleanArchitecture.ApplicationCore.pdb
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net5.0\CleanArchitecture.Domain.Core.dll
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net5.0\CleanArchitecture.Domain.Core.pdb

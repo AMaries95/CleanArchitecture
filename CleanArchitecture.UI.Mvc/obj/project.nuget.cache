@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "WIkT6n75Jd6IegRX25rj3t1UbMVaagVqrQEymaO9eJyrkLh/c+f5urK1vMAOmBhNH2SQck/z1lw5JKPnNsdt0A==",
+  "dgSpecHash": "IpOao8kgqHHXUQRechI+hcQ3PGdj15YKYTOGwkaSz1Cs11qmWFDin7qvTKQFKRK6/WjuwvLOV7I5/GsD5fBGZg==",
   "success": true,
   "projectFilePath": "C:\\Users\\MSA4CLJ\\Desktop\\GIT\\CleanArchitecture\\CleanArchitecture.UI.Mvc\\CleanArchitecture.UI.Mvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MSA4CLJ\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\MSA4CLJ\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\MSA4CLJ\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\MSA4CLJ\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.5\\microsoft.aspnetcore.cryptography.internal.5.0.5.nupkg.sha512",
     "C:\\Users\\MSA4CLJ\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.5\\microsoft.aspnetcore.cryptography.keyderivation.5.0.5.nupkg.sha512",
     "C:\\Users\\MSA4CLJ\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\5.0.5\\microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.5.nupkg.sha512",

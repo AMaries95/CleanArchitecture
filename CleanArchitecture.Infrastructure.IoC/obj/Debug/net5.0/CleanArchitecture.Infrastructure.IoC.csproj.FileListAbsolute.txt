@@ -17,3 +17,7 @@ C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Infrastructure.
 C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Infrastructure.IoC\obj\Debug\net5.0\CleanArchitecture.Infrastructure.IoC.dll
 C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Infrastructure.IoC\obj\Debug\net5.0\ref\CleanArchitecture.Infrastructure.IoC.dll
 C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Infrastructure.IoC\obj\Debug\net5.0\CleanArchitecture.Infrastructure.IoC.pdb
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Infrastructure.IoC\bin\Debug\net5.0\CleanArchitecture.Domain.Core.dll
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Infrastructure.IoC\bin\Debug\net5.0\CleanArchitecture.Domain.Core.pdb
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Infrastructure.IoC\bin\Debug\net5.0\Infrastructure.Bus.dll
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Infrastructure.IoC\bin\Debug\net5.0\Infrastructure.Bus.pdb

@@ -1547,6 +1547,20 @@
         "runtime": {
           "bin/placeholder/CleanArchitecture.Infrastructure.Data.dll": {}
         }
+      },
+      "Infrastructure.Bus/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "CleanArchitecture.Domain.Core": "1.0.0",
+          "MediatR": "9.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Infrastructure.Bus.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Infrastructure.Bus.dll": {}
+        }
       }
     }
   },
@@ -5797,12 +5811,18 @@
       "type": "project",
       "path": "../CleanArchitecture.Infrastructure.Data/CleanArchitecture.Infrastructure.Data.csproj",
       "msbuildProject": "../CleanArchitecture.Infrastructure.Data/CleanArchitecture.Infrastructure.Data.csproj"
+    },
+    "Infrastructure.Bus/1.0.0": {
+      "type": "project",
+      "path": "../Infrastructure.Bus/Infrastructure.Bus.csproj",
+      "msbuildProject": "../Infrastructure.Bus/Infrastructure.Bus.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "CleanArchitecture.ApplicationCore >= 1.0.0",
       "CleanArchitecture.Infrastructure.Data >= 1.0.0",
+      "Infrastructure.Bus >= 1.0.0",
       "Microsoft.Extensions.DependencyInjection >= 5.0.1"
     ]
   },
@@ -5846,6 +5866,9 @@
             },
             "C:\\Users\\MSA4CLJ\\Desktop\\GIT\\CleanArchitecture\\CleanArchitecture.Infrastructure.Data\\CleanArchitecture.Infrastructure.Data.csproj": {
               "projectPath": "C:\\Users\\MSA4CLJ\\Desktop\\GIT\\CleanArchitecture\\CleanArchitecture.Infrastructure.Data\\CleanArchitecture.Infrastructure.Data.csproj"
+            },
+            "C:\\Users\\MSA4CLJ\\Desktop\\GIT\\CleanArchitecture\\Infrastructure.Bus\\Infrastructure.Bus.csproj": {
+              "projectPath": "C:\\Users\\MSA4CLJ\\Desktop\\GIT\\CleanArchitecture\\Infrastructure.Bus\\Infrastructure.Bus.csproj"
             }
           }
         }

@@ -2,9 +2,11 @@
 {
     public class CreateCourseCommand : CourseCommand
     {
-        public CreateCourseCommand()
+        public CreateCourseCommand(string name, string description, string imageUrl)
         {
-            
+            Name = name;
+            Description = description;
+            ImageUrl = imageUrl;
         }
     }
 }

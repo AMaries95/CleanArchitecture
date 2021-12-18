@@ -1,0 +1,15 @@
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\Infrastructure.Bus\bin\Debug\net5.0\Infrastructure.Bus.deps.json
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\Infrastructure.Bus\bin\Debug\net5.0\Infrastructure.Bus.dll
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\Infrastructure.Bus\bin\Debug\net5.0\ref\Infrastructure.Bus.dll
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\Infrastructure.Bus\bin\Debug\net5.0\Infrastructure.Bus.pdb
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\Infrastructure.Bus\bin\Debug\net5.0\CleanArchitecture.Domain.Core.dll
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\Infrastructure.Bus\bin\Debug\net5.0\CleanArchitecture.Domain.Core.pdb
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\Infrastructure.Bus\obj\Debug\net5.0\Infrastructure.Bus.csprojAssemblyReference.cache
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\Infrastructure.Bus\obj\Debug\net5.0\Infrastructure.Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\Infrastructure.Bus\obj\Debug\net5.0\Infrastructure.Bus.AssemblyInfoInputs.cache
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\Infrastructure.Bus\obj\Debug\net5.0\Infrastructure.Bus.AssemblyInfo.cs
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\Infrastructure.Bus\obj\Debug\net5.0\Infrastructure.Bus.csproj.CoreCompileInputs.cache
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\Infrastructure.Bus\obj\Debug\net5.0\Infrastructure.Bus.csproj.CopyComplete
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\Infrastructure.Bus\obj\Debug\net5.0\Infrastructure.Bus.dll
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\Infrastructure.Bus\obj\Debug\net5.0\ref\Infrastructure.Bus.dll
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\Infrastructure.Bus\obj\Debug\net5.0\Infrastructure.Bus.pdb

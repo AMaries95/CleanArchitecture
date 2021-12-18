@@ -1,7 +1,13 @@
 ﻿using CleanArchitecture.ApplicationCore.Interfaces;
 using CleanArchitecture.ApplicationCore.Services;
-using CleanArchitecture.Domain.Repository;
+using CleanArchitecture.Domain;
+using CleanArchitecture.Domain.Commands;
+using CleanArchitecture.Domain.Core.Bus;
+using CleanArchitecture.Domain.Interfaces;
+using CleanArchitecture.Infrastructure.Data.Context;
 using CleanArchitecture.Infrastructure.Data.Repository;
+using Infrastructure.Bus;
+using MediatR;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace CleanArchitecture.Infrastructure.IoC
@@ -15,6 +21,13 @@ namespace CleanArchitecture.Infrastructure.IoC
 
             // infrastructure.data layer
             serviceCollection.AddScoped<ICourseRepository, CourseRepository>();
+            serviceCollection.AddScoped<LearningDbContext>();
+
+            // domain InMemory MediatR bus
+            serviceCollection.AddScoped<IMediatorHandler, InMemoryBus>();
+
+            // domain handlers
+            serviceCollection.AddScoped<IRequestHandler<CreateCourseCommand, bool>, CourseCommandHandler>();
         }
     }
 }

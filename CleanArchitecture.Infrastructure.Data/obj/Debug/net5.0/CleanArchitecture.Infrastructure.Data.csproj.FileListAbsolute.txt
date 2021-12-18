@@ -16,3 +16,5 @@ C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Infrastructure.
 C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Infrastructure.Data\obj\Debug\net5.0\ref\CleanArchitecture.Infrastructure.Data.dll
 C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Infrastructure.Data\obj\Debug\net5.0\CleanArchitecture.Infrastructure.Data.pdb
 C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Infrastructure.Data\obj\Debug\net5.0\CleanArchitecture.Infrastructure.Data.genruntimeconfig.cache
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Infrastructure.Data\bin\Debug\net5.0\CleanArchitecture.Domain.Core.dll
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Infrastructure.Data\bin\Debug\net5.0\CleanArchitecture.Domain.Core.pdb
