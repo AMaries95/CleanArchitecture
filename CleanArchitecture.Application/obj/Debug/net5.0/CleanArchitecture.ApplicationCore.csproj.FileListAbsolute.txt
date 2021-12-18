@@ -1,0 +1,15 @@
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net5.0\CleanArchitecture.ApplicationCore.deps.json
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net5.0\CleanArchitecture.ApplicationCore.dll
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net5.0\ref\CleanArchitecture.ApplicationCore.dll
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net5.0\CleanArchitecture.ApplicationCore.pdb
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net5.0\CleanArchitecture.Domain.dll
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net5.0\CleanArchitecture.Domain.pdb
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net5.0\CleanArchitecture.ApplicationCore.csprojAssemblyReference.cache
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net5.0\CleanArchitecture.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net5.0\CleanArchitecture.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net5.0\CleanArchitecture.ApplicationCore.AssemblyInfo.cs
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net5.0\CleanArchitecture.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net5.0\CleanArchitecture.ApplicationCore.csproj.CopyComplete
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net5.0\CleanArchitecture.ApplicationCore.dll
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net5.0\ref\CleanArchitecture.ApplicationCore.dll
+C:\Users\MSA4CLJ\Desktop\GIT\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net5.0\CleanArchitecture.ApplicationCore.pdb

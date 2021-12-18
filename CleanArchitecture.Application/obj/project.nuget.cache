@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pW0LTDv+B0s/LG75SPenEomR1BzJ+y+DYP/A2hyYm+5z73YbzhuINtABtTk8Fygpgmiik+CTfUNdKrY3HeS+9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSA4CLJ\\Desktop\\GIT\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.ApplicationCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSA4CLJ\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\MSA4CLJ\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\MSA4CLJ\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

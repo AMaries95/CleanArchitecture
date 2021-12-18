@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vuW2We5mtU6a4s2B4vuWZizhqjhaaR8qUaiedQ4CrO7CP3Cp2ibY5OyNdDyyToB6e6Xc5eKaDQ+NoZoPGjor8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSA4CLJ\\Desktop\\GIT\\CleanArchitecture\\Infrastructure.Bus\\Infrastructure.Bus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSA4CLJ\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
