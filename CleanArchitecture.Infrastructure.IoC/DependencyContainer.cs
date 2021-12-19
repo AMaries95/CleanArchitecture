@@ -24,7 +24,7 @@ namespace CleanArchitecture.Infrastructure.IoC
             serviceCollection.AddScoped<LearningDbContext>();
 
             // domain InMemory MediatR bus
-            serviceCollection.AddScoped<IMediatorHandler, InMemoryBus>();
+            serviceCollection.AddScoped<IMediatorHandler, MediatorHandler>();
 
             // domain handlers
             serviceCollection.AddScoped<IRequestHandler<CreateCourseCommand, bool>, CourseCommandHandler>();

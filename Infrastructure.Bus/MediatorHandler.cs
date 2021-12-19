@@ -5,11 +5,11 @@ using MediatR;
 
 namespace Infrastructure.Bus
 {
-    public sealed class InMemoryBus : IMediatorHandler
+    public sealed class MediatorHandler : IMediatorHandler
     {
         private readonly IMediator _mediator;
 
-        public InMemoryBus(IMediator mediator)
+        public MediatorHandler(IMediator mediator)
         {
             _mediator = mediator;
         }
